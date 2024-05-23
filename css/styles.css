@@ -63,7 +63,7 @@ img {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5;
-  margin-right: 60px;
+  margin-right: 76px;
 }
 
 .logo-part {
@@ -167,8 +167,7 @@ img {
   overflow: hidden;
 }
 .features-points {
-  padding-top: 120px;
-  padding-bottom: 120px;
+  padding: 120px 0;
 }
 
 .features-title {
@@ -205,6 +204,7 @@ img {
 /* ----------our team---------- */
 .section-title {
   background-color: #f4f4fd;
+  padding: 120px 0;
 }
 
 .our-headline {
@@ -265,6 +265,8 @@ img {
 /* ----------/our team---------- */
 /* ----------portfolio---------- */
 .section-title {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .our {
@@ -290,7 +292,7 @@ img {
   height: 420px;
   background: #fff;
 }
-.portfolio-item-div {
+.portfolio-text-div {
   padding: 32px 16px;
   border: 1px solid #e7e9fc;
   border-top: none;
