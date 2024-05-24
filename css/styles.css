@@ -167,7 +167,10 @@ img {
   overflow: hidden;
 }
 .features-points {
-  padding: 120px 0 120px;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.feature-points-container {
 }
 
 .features-title {
